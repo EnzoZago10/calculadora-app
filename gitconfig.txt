@@ -1,0 +1,2 @@
+git config --global user.name EnzoZago10
+git config --global user.email enzozago2010@gmail.com
