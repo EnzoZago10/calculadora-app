@@ -1,5 +1,13 @@
+-- Configuração do Git
 git config --global user.name EnzoZago10
 git config --global user.email enzozago2010@gmail.com
 
 -- Criar um projeto vazio
 npx create-expo-app@latest calculadora --template blank
+
+-- Toda aula ao começar
+cd calculadora
+npm i
+
+-- Executar o projeto   
+npx expo start --android
